@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\bin\Debug\lembrasa2021-2017.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\bin\Debug\lembrasa2021-2017.exe
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\bin\Debug\lembrasa2021-2017.pdb
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021-2017.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021_2017.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021_2017.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021-2017.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021-2017.exe
+c:\users\sti\documents\visual studio 2012\Projects\lembrasa2021-2017\lembrasa2021-2017\obj\Debug\lembrasa2021-2017.pdb

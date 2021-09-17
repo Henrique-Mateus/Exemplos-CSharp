@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\bin\Debug\Aula03.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\bin\Debug\Aula03.exe
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\bin\Debug\Aula03.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.exe
+c:\users\sti\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\Aula03\Aula03\obj\Debug\Aula03.csprojResolveAssemblyReference.cache

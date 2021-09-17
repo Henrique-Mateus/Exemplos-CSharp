@@ -1,0 +1,13 @@
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\bin\Debug\LugarDeTexts.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\bin\Debug\LugarDeTexts.exe
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\bin\Debug\LugarDeTexts.pdb
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.exe
+c:\users\sti\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.pdb
+C:\Users\STI\Documents\Visual Studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.TesteBaseDeDados.resources
+C:\Users\STI\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.Relogio.resources
+C:\Users\STI\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.tempo_desafio.resources
+C:\Users\STI\documents\visual studio 2012\Projects\LugarDeTexts\LugarDeTexts\obj\Debug\LugarDeTexts.add_numero.resources

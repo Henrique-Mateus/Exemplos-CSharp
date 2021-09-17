@@ -1,0 +1,10 @@
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.exe
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\bin\Debug\Teste.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.frmInicial.resources
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.exe
+c:\users\sti\documents\visual studio 2012\Projects\Teste\Teste\obj\Debug\Teste.pdb
+C:\Users\STI\Documents\Visual Studio 2012\Projects\Teste\Teste\obj\Debug\Teste.Form2.resources

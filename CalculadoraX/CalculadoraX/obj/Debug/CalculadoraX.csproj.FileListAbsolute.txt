@@ -1,0 +1,10 @@
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.exe
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.pdb
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.exe
+c:\users\sti\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.Calc2.resources

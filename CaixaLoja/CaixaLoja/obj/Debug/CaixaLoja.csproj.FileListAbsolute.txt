@@ -1,0 +1,10 @@
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\bin\Debug\CaixaLoja.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\bin\Debug\CaixaLoja.exe
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\bin\Debug\CaixaLoja.pdb
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.Formula1.resources
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.exe
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.pdb
+c:\users\sti\documents\visual studio 2012\Projects\CaixaLoja\CaixaLoja\obj\Debug\CaixaLoja.fmCaixaLoja.resources

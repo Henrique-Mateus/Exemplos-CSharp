@@ -1,0 +1,13 @@
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\bin\Debug\Repaticoes.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\bin\Debug\Repaticoes.exe
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\bin\Debug\Repaticoes.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.exe
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.Fatorial.resources
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.Encadeamento.resources
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.ComandoWhile.resources
+c:\users\sti\documents\visual studio 2012\Projects\Repaticoes\Repaticoes\obj\Debug\Repaticoes.MainpulaString.resources

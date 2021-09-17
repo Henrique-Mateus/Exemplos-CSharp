@@ -1,0 +1,10 @@
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\bin\Debug\CitoBanco.Financ.SisCred.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\bin\Debug\CitoBanco.Financ.SisCred.exe
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\bin\Debug\CitoBanco.Financ.SisCred.pdb
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.Form2.resources
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.exe
+c:\users\sti\documents\visual studio 2012\Projects\CitoBanco.Financ.SisCred\CitoBanco.Financ.SisCred\obj\Debug\CitoBanco.Financ.SisCred.pdb

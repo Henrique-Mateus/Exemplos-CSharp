@@ -1,0 +1,4 @@
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.Core\EmpresaA.Core\bin\Debug\EmpresaA.Core.dll
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.Core\EmpresaA.Core\bin\Debug\EmpresaA.Core.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.Core\EmpresaA.Core\obj\Debug\EmpresaA.Core.dll
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.Core\EmpresaA.Core\obj\Debug\EmpresaA.Core.pdb

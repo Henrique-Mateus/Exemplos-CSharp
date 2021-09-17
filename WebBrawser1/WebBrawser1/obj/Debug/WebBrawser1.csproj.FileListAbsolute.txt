@@ -1,0 +1,12 @@
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\bin\Debug\WebBrawser1.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\bin\Debug\WebBrawser1.exe
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\bin\Debug\WebBrawser1.pdb
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.Form2.resources
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.Form3.resources
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.exe
+c:\users\sti\documents\visual studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.pdb
+C:\Users\STI\Documents\Visual Studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.csprojResolveAssemblyReference.cache
+C:\Users\STI\Documents\Visual Studio 2012\Projects\WebBrawser1\WebBrawser1\obj\Debug\WebBrawser1.Form4.resources

@@ -1,0 +1,12 @@
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\bin\Debug\joguinho.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\bin\Debug\joguinho.exe
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\bin\Debug\joguinho.pdb
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.exe
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.pdb
+c:\users\sti\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.csprojResolveAssemblyReference.cache
+C:\Users\STI\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.Form2.resources
+C:\Users\STI\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.Form3.resources
+C:\Users\STI\documents\visual studio 2012\Projects\joguinho\joguinho\obj\Debug\joguinho.Form4.resources

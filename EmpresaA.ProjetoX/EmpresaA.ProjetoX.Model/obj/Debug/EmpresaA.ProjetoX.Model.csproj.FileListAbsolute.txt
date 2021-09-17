@@ -1,0 +1,5 @@
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX.Model\bin\Debug\EmpresaA.ProjetoX.Model.dll
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX.Model\bin\Debug\EmpresaA.ProjetoX.Model.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX.Model\obj\Debug\EmpresaA.ProjetoX.Model.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX.Model\obj\Debug\EmpresaA.ProjetoX.Model.dll
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX.Model\obj\Debug\EmpresaA.ProjetoX.Model.pdb

@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\bin\Debug\tomado-de-decizao.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\bin\Debug\tomado-de-decizao.exe
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\bin\Debug\tomado-de-decizao.pdb
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado-de-decizao.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado_de_decizao.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado_de_decizao.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado-de-decizao.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado-de-decizao.exe
+c:\users\sti\documents\visual studio 2012\Projects\tomado-de-decizao\tomado-de-decizao\obj\Debug\tomado-de-decizao.pdb

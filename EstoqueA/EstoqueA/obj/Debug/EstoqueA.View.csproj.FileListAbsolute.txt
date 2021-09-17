@@ -1,0 +1,11 @@
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\bin\Debug\EstoqueA.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\bin\Debug\EstoqueA.exe
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\bin\Debug\EstoqueA.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.View.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.mdiPrincipal.resources
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.View.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.exe
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EstoqueA\EstoqueA\obj\Debug\EstoqueA.fmCadcli.resources

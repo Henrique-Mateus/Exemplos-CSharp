@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\bin\Debug\Comtrolit.Loja.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\bin\Debug\Comtrolit.Loja.exe
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\bin\Debug\Comtrolit.Loja.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.exe
+c:\users\sti\documents\visual studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.pdb
+C:\Users\STI\Documents\Visual Studio 2012\Projects\Comtrolit.Loja\Comtrolit.Loja\obj\Debug\Comtrolit.Loja.csprojResolveAssemblyReference.cache

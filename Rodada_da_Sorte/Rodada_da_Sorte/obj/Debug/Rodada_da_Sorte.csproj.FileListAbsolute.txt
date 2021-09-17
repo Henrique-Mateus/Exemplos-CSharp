@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\bin\Debug\Rodada_da_Sorte.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\bin\Debug\Rodada_da_Sorte.exe
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\bin\Debug\Rodada_da_Sorte.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.exe
+c:\users\sti\documents\visual studio 2012\Projects\Rodada_da_Sorte\Rodada_da_Sorte\obj\Debug\Rodada_da_Sorte.pdb

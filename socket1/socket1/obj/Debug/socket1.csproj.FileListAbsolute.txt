@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\socket1\socket1\bin\Debug\socket1.exe.config
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.csprojResolveAssemblyReference.cache
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.Form1.resources
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.Properties.Resources.resources
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.csproj.GenerateResource.Cache
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\bin\Debug\socket1.exe
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\bin\Debug\socket1.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.exe
+C:\Users\STI\documents\visual studio 2012\Projects\socket1\socket1\obj\Debug\socket1.pdb

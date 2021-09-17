@@ -1,0 +1,13 @@
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\bin\Debug\Controlit.Estoque.View.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\bin\Debug\Controlit.Estoque.View.exe
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\bin\Debug\Controlit.Estoque.View.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.exe
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.Menu.resources
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.frmbaixaEstoque.resources
+c:\users\sti\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.frmSplahEstoque.resources
+C:\Users\STI\documents\visual studio 2012\Projects\Controlit.Estoque.View\Controlit.Estoque.View\obj\Debug\Controlit.Estoque.View.fmLogin.resources

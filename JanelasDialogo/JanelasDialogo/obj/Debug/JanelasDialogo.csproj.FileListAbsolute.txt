@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\bin\Debug\JanelasDialogo.exe.config
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\bin\Debug\JanelasDialogo.exe
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\bin\Debug\JanelasDialogo.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.csprojResolveAssemblyReference.cache
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.Form1.resources
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.Properties.Resources.resources
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.csproj.GenerateResource.Cache
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.exe
+C:\Users\STI\documents\visual studio 2012\Projects\JanelasDialogo\JanelasDialogo\obj\Debug\JanelasDialogo.pdb

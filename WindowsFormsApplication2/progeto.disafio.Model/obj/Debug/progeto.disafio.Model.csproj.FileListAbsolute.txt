@@ -1,0 +1,4 @@
+C:\Users\STI\documents\visual studio 2012\Projects\WindowsFormsApplication2\progeto.disafio.Model\bin\Debug\progeto.disafio.Model.dll
+C:\Users\STI\documents\visual studio 2012\Projects\WindowsFormsApplication2\progeto.disafio.Model\bin\Debug\progeto.disafio.Model.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\WindowsFormsApplication2\progeto.disafio.Model\obj\Debug\progeto.disafio.Model.csprojResolveAssemblyReference.cache
+C:\Users\STI\documents\visual studio 2012\Projects\WindowsFormsApplication2\progeto.disafio.Model\obj\Debug\progeto.disafio.Model.pdb

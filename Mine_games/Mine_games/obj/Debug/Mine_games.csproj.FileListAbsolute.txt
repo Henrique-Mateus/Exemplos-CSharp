@@ -1,0 +1,10 @@
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\bin\Debug\Mine_games.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\bin\Debug\Mine_games.exe
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\bin\Debug\Mine_games.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.exe
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.pdb
+c:\users\sti\documents\visual studio 2012\Projects\Mine_games\Mine_games\obj\Debug\Mine_games.Form2.resources

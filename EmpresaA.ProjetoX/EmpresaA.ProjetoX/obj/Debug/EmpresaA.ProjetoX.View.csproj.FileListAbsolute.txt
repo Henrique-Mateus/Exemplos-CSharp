@@ -1,0 +1,15 @@
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.ProjetoX.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.ProjetoX.exe
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.ProjetoX.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.ProjetoX.Model.dll
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.ProjetoX.Model.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.View.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.View.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.exe
+c:\users\sti\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.Core.dll
+C:\Users\STI\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\bin\Debug\EmpresaA.Core.pdb
+C:\Users\STI\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.fmCadContas.resources
+C:\Users\STI\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.fmCadCliente.resources
+C:\Users\STI\documents\visual studio 2012\Projects\EmpresaA.ProjetoX\EmpresaA.ProjetoX\obj\Debug\EmpresaA.ProjetoX.fmCadFunc.resources

@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\bin\Debug\EditorArqSeq.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\bin\Debug\EditorArqSeq.exe
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\bin\Debug\EditorArqSeq.pdb
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.exe
+c:\users\sti\documents\visual studio 2012\Projects\EditorArqSeq\EditorArqSeq\obj\Debug\EditorArqSeq.pdb

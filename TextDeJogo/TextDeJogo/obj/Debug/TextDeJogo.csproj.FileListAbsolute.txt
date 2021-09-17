@@ -1,0 +1,9 @@
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\bin\Debug\TextDeJogo.exe.config
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\bin\Debug\TextDeJogo.exe
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\bin\Debug\TextDeJogo.pdb
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.csprojResolveAssemblyReference.cache
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.Form1.resources
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.Properties.Resources.resources
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.csproj.GenerateResource.Cache
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.exe
+c:\users\sti\documents\visual studio 2012\Projects\TextDeJogo\TextDeJogo\obj\Debug\TextDeJogo.pdb
